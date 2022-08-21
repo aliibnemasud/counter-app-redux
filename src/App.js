@@ -8,6 +8,6 @@ function App() {
       <CounterApp></CounterApp>      
     </div>
   );
-}
+};
 
 export default App;
